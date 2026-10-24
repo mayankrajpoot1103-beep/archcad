@@ -1,0 +1,25 @@
+{
+  "name": "ArchCAD M3 - Architectural CAD & Massing",
+  "short_name": "ArchCAD",
+  "description": "Professional 2D CAD drafting and real-time 3D architectural massing web application optimized for iPad Air M3, touch gestures, and Apple Pencil.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#121417",
+  "theme_color": "#1c2026",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
